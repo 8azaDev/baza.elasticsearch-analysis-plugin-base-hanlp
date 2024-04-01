@@ -1,0 +1,1 @@
+# baza.elasticsearch-analysis-plugin-base-hanlp
